@@ -8,4 +8,4 @@ Technologies Used are
 ## Mongoose
 ## HTML5 (SVG)
 ## EJS 
-## CSS3 
+## CSS
