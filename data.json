@@ -1,0 +1,325 @@
+{
+  "request": {
+    "success": true,
+    "total_time_taken": 4.8,
+    "processed_timestamp": 1602728505,
+    "search_url": "http://www.google.com/search?q=mcdonalds\u0026gl=us\u0026hl=en\u0026safe=0\u0026num=10"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "type": "web",
+    "device": "desktop",
+    "auto_location": "1",
+    "google_domain": "google.com",
+    "gl": "us",
+    "hl": "en",
+    "safe": "0",
+    "news_type": "all",
+    "exclude_autocorrected_results": "0",
+    "images_color": "any",
+    "page": "1",
+    "num": "10",
+    "output": "json",
+    "csv_fields": "search_parameters.query,organic_results.position,organic_results.title,organic_results.url,organic_results.domain",
+    "query": "mcdonalds",
+    "action": "search",
+    "access_key": "feda4bfe826d96873c7d4821c1496529",
+    "error": {}
+  },
+  "search_information": {
+    "total_results": 552000000,
+    "time_taken_displayed": 0.73,
+    "detected_location": {},
+    "did_you_mean": {},
+    "no_results_for_original_query": false,
+    "query_displayed": "mcdonalds",
+    "showing_results_for": {}
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "McDonald\u0027s: Burgers, Fries \u0026 More. Quality Ingredients.",
+      "snippet": "CachedCachedMcDonalds.com is your hub for everything McDonald\u0027s. Find out more about our menu items and promotions today!McDonalds.com is your hub for everything McDonald\u0027s. Find out more about our menu items and promotions today!",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:MkoRvNGAywMJ:https://www.mcdonalds.com/us/en-us.html+\u0026cd=1\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.mcdonalds.com/us/en-us.html",
+      "domain": "www.mcdonalds.com",
+      "displayed_url": "http://www.mcdonalds.com \u203a en-us"
+    },
+    {
+      "position": 2,
+      "title": "McDonald\u0027s Menu: Our Full McDonald\u0027s Food Menu ...",
+      "snippet": "CachedSimilarCachedSimilarBefore your next McDonald\u0027s trip, take a tour of our full McDonald\u0027s Menu. Check out our breakfast, burgers, and more!Before your next McDonald\u0027s trip, take a tour of our full McDonald\u0027s Menu. Check out our breakfast, burgers, and more!",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:uCSdBxeNmPEJ:https://www.mcdonalds.com/us/en-us/full-menu.html+\u0026cd=7\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://www.mcdonalds.com/us/en-us/full-menu.html+mcdonalds\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQHzAGegQIKRAI",
+      "url": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+      "domain": "www.mcdonalds.com",
+      "displayed_url": "http://www.mcdonalds.com \u203a en-us \u203a full-menu"
+    },
+    {
+      "position": 3,
+      "title": "McDonald\u0027s - Wikipedia",
+      "snippet": "CachedSimilarCachedSimilarMcDonald\u0027s Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino,\u00a0...McDonald\u0027s Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino,\u00a0...Number of locations: Number of locations38,695 restaurants (2019)38,695 restaurants (2019)Revenue: RevenueUS$21.076 billion (2019)US$21.076 billion (2019)Number of employees: Number of employeesapprox. 210,000 (2018 ...approx. 210,000 (2018 ...Total assets: Total assetsUS$32.811 billion (2018)US$32.811 billion (2018)",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:tg3qNrQIjRwJ:https://en.wikipedia.org/wiki/McDonald%2527s+\u0026cd=23\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://en.wikipedia.org/wiki/McDonald%2527s+mcdonalds\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQHzAWegQIKhAI",
+      "url": "https://en.wikipedia.org/wiki/McDonald%27s",
+      "domain": "en.wikipedia.org",
+      "displayed_url": "http://en.wikipedia.org \u203a wiki \u203a McDonald\u0027s"
+    },
+    {
+      "position": 4,
+      "title": "McDonald\u0027s - Home | Facebook",
+      "snippet": "CachedSimilarCachedSimilarMcDonald\u0027s. 80626243 likes \u00b7 12441 talking about this \u00b7 37028065 were here. \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f \u00a1vamos todos a McDonald\u0027s!McDonald\u0027s. 80626243 likes \u00b7 12441 talking about this \u00b7 37028065 were here. \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f \u00a1vamos todos a McDonald\u0027s!Rating: 1.617 votes",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:WVsdGFE-qYkJ:https://www.facebook.com/McDonalds/+\u0026cd=27\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://www.facebook.com/McDonalds/+mcdonalds\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQHzAaegQIKxAK",
+      "url": "https://www.facebook.com/McDonalds/",
+      "domain": "www.facebook.com",
+      "displayed_url": "http://www.facebook.com \u203a ... \u203a Restaurant \u203a Burger Restaurant"
+    },
+    {
+      "position": 5,
+      "title": "McDonald\u0027s (@mcdonalds) \u2022 Instagram photos and videos",
+      "snippet": "SimilarSimilar3.9m Followers, 212 Following, 129 Posts - See Instagram photos and videos from McDonald\u0027s (@mcdonalds)3.9m Followers, 212 Following, 129 Posts - See Instagram photos and videos from McDonald\u0027s (@mcdonalds)",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://www.instagram.com/mcdonalds/%3Fhl%3Den+mcdonalds\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQHzAbegQILRAH",
+      "url": "https://www.instagram.com/mcdonalds/?hl=en",
+      "domain": "www.instagram.com",
+      "displayed_url": "http://www.instagram.com \u203a mcdonalds"
+    },
+    {
+      "position": 6,
+      "title": "McDonald\u0027s - YouTube",
+      "snippet": "CachedSimilarCachedSimilarWelcome to your go-to source for all things McDonald\u0027s. On our official channel, you\u0027ll have exclusive access to McDonald\u0027s commercials, behind-the-scenes fo...Welcome to your go-to source for all things McDonald\u0027s. On our official channel, you\u0027ll have exclusive access to McDonald\u0027s commercials, behind-the-scenes fo...",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:A8djK5skUxgJ:https://www.youtube.com/user/McDonaldsUS+\u0026cd=29\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://www.youtube.com/user/McDonaldsUS+mcdonalds\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQHzAcegQILBAI",
+      "url": "https://www.youtube.com/user/McDonaldsUS",
+      "domain": "www.youtube.com",
+      "displayed_url": "http://www.youtube.com \u203a user \u203a McDonaldsUS"
+    },
+    {
+      "position": 7,
+      "title": "McDonald\u0027s - Apps on Google Play",
+      "snippet": "CachedCachedJust tap \u201cinstall\u201d to receive exclusive McDonald\u0027s deals, coupons, offers and more! It\u0027s as simple as that! Bring the App to a nearby participating McDonald\u0027s and\u00a0...Just tap \u201cinstall\u201d to receive exclusive McDonald\u0027s deals, coupons, offers and more! It\u0027s as simple as that! Bring the App to a nearby participating McDonald\u0027s and\u00a0...Rating: 3.3375,947 votesFreeAndroid",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:5tDeHaUyH40J:https://play.google.com/store/apps/details%3Fid%3Dcom.mcdonalds.app%26utm_source%3Dwww.apk4fun.com+\u0026cd=30\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://play.google.com/store/apps/details?id=com.mcdonalds.app\u0026utm_source=www.apk4fun.com",
+      "domain": "play.google.com",
+      "displayed_url": "http://play.google.com \u203a store \u203a apps \u203a details \u203a id=com.mcd..."
+    },
+    {
+      "position": 8,
+      "title": "McDonald\u0027s (@McDonalds) | Twitter",
+      "snippet": "CachedSimilarCachedSimilarThe latest Tweets from McDonald\u0027s (@McDonalds). \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f \u00a1vamos todos a McDonald\u0027s!The latest Tweets from McDonald\u0027s (@McDonalds). \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f \u00a1vamos todos a McDonald\u0027s!",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:hbnCUNvUjxIJ:https://twitter.com/mcdonalds%3Flang%3Den+\u0026cd=11\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://twitter.com/mcdonalds%3Flang%3Den+mcdonalds\u0026sa=X\u0026ved=2ahUKEwiI6JH5xLXsAhUKmRQKHa-LAiY4ChAfMAB6BAgDEAg",
+      "url": "https://twitter.com/mcdonalds?lang=en",
+      "domain": "twitter.com",
+      "displayed_url": "http://twitter.com \u203a mcdonalds"
+    },
+    {
+      "position": 9,
+      "title": "McDonald\u0027s - Apps on Google Play",
+      "snippet": "CachedCachedDownload the McDonald\u0027s\u2122 App for unique offers! Features: - Unique offers always available in the palm of your hand! Use the app to access offers, which you\u00a0...Download the McDonald\u0027s\u2122 App for unique offers! Features: - Unique offers always available in the palm of your hand! Use the app to access offers, which you\u00a0...Rating: 3.1273,783 votesFreeAndroid",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:2W5SipELSZgJ:https://play.google.com/store/apps/details%3Fid%3Dcom.mcdonalds.mobileapp%26hl%3Den_US%26gl%3DUS+\u0026cd=12\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://play.google.com/store/apps/details?id=com.mcdonalds.mobileapp\u0026hl=en_US\u0026gl=US",
+      "domain": "play.google.com",
+      "displayed_url": "http://play.google.com \u203a store \u203a apps \u203a details \u203a id=com.mcd..."
+    },
+    {
+      "position": 10,
+      "title": "McDonald\u0027s denies Travis Scott partnership, racial ... - Fox News",
+      "snippet": "1 day ago \u2014 In a Vice article last week, a historian accused McDonald\u0027s of partnering with rapper Travis Scott as a way to save face with customers of color\u00a0...1 day ago \u2014 In a Vice article last week, a historian accused McDonald\u0027s of partnering with rapper Travis Scott as a way to save face with customers of color\u00a0...",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.foxnews.com/food-drink/mcdonalds-travis-scott-racial-discrimination-lawsuits",
+      "domain": "www.foxnews.com",
+      "displayed_url": "http://www.foxnews.com \u203a food-drink \u203a mcdonalds-travis-scott..."
+    },
+    {
+      "position": 11,
+      "title": "Two Black McDonald\u0027s workers fired after filing discrimination ...",
+      "snippet": "CachedCached1 day ago \u2014 As the local lawsuit presses on, a new one in Illinois says a McDonald\u0027s manager called Black workers \u201cghetto, lazy and smelly.\u201d1 day ago \u2014 As the local lawsuit presses on, a new one in Illinois says a McDonald\u0027s manager called Black workers \u201cghetto, lazy and smelly.\u201d",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:dDaX8IdXQv8J:https://www.tampabay.com/news/business/2020/10/13/two-black-mcdonalds-workers-fired-after-filing-discrimination-case-in-tampa-court/+\u0026cd=14\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.tampabay.com/news/business/2020/10/13/two-black-mcdonalds-workers-fired-after-filing-discrimination-case-in-tampa-court/",
+      "domain": "www.tampabay.com",
+      "displayed_url": "http://www.tampabay.com \u203a News \u203a Business"
+    },
+    {
+      "position": 12,
+      "title": "Happy Meal",
+      "snippet": "CachedCachedGet ready for adventure with Marvel\u0027s Greatest Heroes Happy Meal\u00ae toys at McDonald\u0027s\u00ae. Now available through November 9th. At participating McDonald\u0027s.Get ready for adventure with Marvel\u0027s Greatest Heroes Happy Meal\u00ae toys at McDonald\u0027s\u00ae. Now available through November 9th. At participating McDonald\u0027s.",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:pdp3co0nJEIJ:https://www.happymeal.com/+\u0026cd=15\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.happymeal.com/",
+      "domain": "www.happymeal.com",
+      "displayed_url": "http://www.happymeal.com"
+    },
+    {
+      "position": 13,
+      "title": "McDonald\u0027s used tech to get better. Chick-fil-A\u0027s customers just ...",
+      "snippet": "CachedCached5 days ago \u2014 When big consumer brands buy smaller tech companies, the results aren\u0027t always readily visible. In the case of McDonald\u0027s, there has been\u00a0...5 days ago \u2014 When big consumer brands buy smaller tech companies, the results aren\u0027t always readily visible. In the case of McDonald\u0027s, there has been\u00a0...",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:UUf-Wu6NKzQJ:https://www.zdnet.com/article/mcdonalds-used-tech-to-get-better-chick-fil-as-customers-just-laughed/+\u0026cd=16\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.zdnet.com/article/mcdonalds-used-tech-to-get-better-chick-fil-as-customers-just-laughed/",
+      "domain": "www.zdnet.com",
+      "displayed_url": "http://www.zdnet.com \u203a article \u203a mcdonalds-used-tech-to-get-..."
+    },
+    {
+      "position": 14,
+      "title": "McDonald\u0027s USA Denies Report on Why Travis Scott ...",
+      "snippet": "CachedCached2 days ago \u2014 As \u0027Vice\u0027 reported, McDonald\u0027s launched the collaboration meals in a year that has seen former employees file discrimination lawsuits against\u00a0...2 days ago \u2014 As \u0027Vice\u0027 reported, McDonald\u0027s launched the collaboration meals in a year that has seen former employees file discrimination lawsuits against\u00a0...",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:j4E1Mc-EfG8J:https://www.complex.com/life/2020/10/mcdonalds-discrimination-lawsuits-travis-scott-collab-response+\u0026cd=17\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.complex.com/life/2020/10/mcdonalds-discrimination-lawsuits-travis-scott-collab-response",
+      "domain": "www.complex.com",
+      "displayed_url": "http://www.complex.com \u203a life \u203a 2020/10 \u203a mcdonalds-discri..."
+    },
+    {
+      "position": 15,
+      "title": "McDonald\u0027s Corporation (MCD) Stock Price, News, Quote ...",
+      "snippet": "CachedCachedFind the latest McDonald\u0027s Corporation (MCD) stock quote, history, news and other vital information to help you with your stock trading and investing.Find the latest McDonald\u0027s Corporation (MCD) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:D4I9AU2M73UJ:https://finance.yahoo.com/quote/MCD/+\u0026cd=18\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://finance.yahoo.com/quote/MCD/",
+      "domain": "finance.yahoo.com",
+      "displayed_url": "http://finance.yahoo.com \u203a quote \u203a MCD"
+    },
+    {
+      "position": 16,
+      "title": "15 Discontinued McDonald\u0027s Foods We Want Back | Eat This ...",
+      "snippet": "CachedCachedSep 28, 2020 \u2014 15 Discontinued McDonald\u0027s Menu Items \u00b7 Arch Deluxe \u00b7 Fried Apple Pie \u00b7 Beef Tallow Fries \u00b7 Szechuan Sauce \u00b7 Salads \u00b7 Artisan Grilled Chicken\u00a0...Sep 28, 2020 \u2014 15 Discontinued McDonald\u0027s Menu Items \u00b7 Arch Deluxe \u00b7 Fried Apple Pie \u00b7 Beef Tallow Fries \u00b7 Szechuan Sauce \u00b7 Salads \u00b7 Artisan Grilled Chicken\u00a0...",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:dselpvlqCiQJ:https://www.eatthis.com/discontinued-mcdonalds-foods/+\u0026cd=19\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": {},
+      "url": "https://www.eatthis.com/discontinued-mcdonalds-foods/",
+      "domain": "www.eatthis.com",
+      "displayed_url": "http://www.eatthis.com \u203a discontinued-mcdonalds-foods"
+    },
+    {
+      "position": 17,
+      "title": "McDonald\u0027s (MCD) - Forbes",
+      "snippet": "CachedSimilarCachedSimilarMcDonald\u0027s (MCD). $228.41. +1.06 (+0.47%). As of October 14 11:33:34 AM EST.McDonald\u0027s (MCD). $228.41. +1.06 (+0.47%). As of October 14 11:33:34 AM EST.City/Town: City/TownChicagoChicago",
+      "prerender": false,
+      "cached_page_url": "https://webcache.googleusercontent.com/search?q=cache:P6QFgoQJnH8J:https://www.forbes.com/companies/mcdonalds/+\u0026cd=20\u0026hl=en\u0026ct=clnk\u0026gl=us",
+      "related_pages_url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=related:https://www.forbes.com/companies/mcdonalds/+mcdonalds\u0026sa=X\u0026ved=2ahUKEwiI6JH5xLXsAhUKmRQKHa-LAiY4ChAfMAl6BAgCEAg",
+      "url": "https://www.forbes.com/companies/mcdonalds/",
+      "domain": "www.forbes.com",
+      "displayed_url": "http://www.forbes.com \u203a companies \u203a mcdonalds"
+    }
+  ],
+  "local_map": {
+    "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonalds\u0026npsic=0\u0026rflfq=1\u0026rldoc=1\u0026rlha=0\u0026rllag=36985184,-95776989,29995\u0026tbm=lcl\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQtgN6BAgvEAc",
+    "coordinates": { "latitude": 36.985184, "longitude": -95.776989 },
+    "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "McDonald\u0027s",
+      "coordinates": { "latitude": 37.033287, "longitude": -95.61945 },
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "address": "Open \u22c5 Closes 11PM \u00b7 (620) 251-3330",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {},
+      "url": "/search?hl=en\u0026gl=us\u0026q=McDonald\u0027s+Coffeyville,+KS\u0026ludocid=17703540856359852312\u0026lsig=AB86z5VkBulMQNECtZB8xlG5TyVp\u0026lqi=CgltY2RvbmFsZHMiA4gBAUjgpPPG5YCAgAhaGgoJbWNkb25hbGRzEAAYACIJbWNkb25hbGRz\u0026phdesc=WWCsidlZMhM"
+    },
+    {
+      "position": 2,
+      "title": "McDonald\u0027s",
+      "coordinates": { "latitude": 37.223984, "longitude": -95.711266 },
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "address": "Open \u22c5 Closes 11PM \u00b7 (620) 331-7177",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {},
+      "url": "/search?hl=en\u0026gl=us\u0026q=McDonald\u0027s+Independence,+KS\u0026ludocid=12418463055902490663\u0026lsig=AB86z5UDfBIW0K55KXoA9xPx4xLp\u0026lqi=CgltY2RvbmFsZHMiA4gBAUjhhsmO6YCAgAhaGgoJbWNkb25hbGRzEAAYACIJbWNkb25hbGRz\u0026phdesc=PgRU9r-46Cc"
+    },
+    {
+      "position": 3,
+      "title": "McDonald\u0027s",
+      "coordinates": { "latitude": 36.746384, "longitude": -95.934525 },
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "address": "Open \u22c5 Closes 11PM \u00b7 (918) 333-6060",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {},
+      "url": "/search?hl=en\u0026gl=us\u0026q=McDonald\u0027s+Bartlesville,+OK\u0026ludocid=9018182517016586276\u0026lsig=AB86z5V0Bbd7afQBQ4YSgOVFlxBs\u0026lqi=CgltY2RvbmFsZHMiA4gBAUjVyZvO5YCAgAhaGgoJbWNkb25hbGRzEAAYACIJbWNkb25hbGRz\u0026phdesc=jdP4KGVx-XM"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "mcdonald\u0027s menu",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+menu\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoAHoECEoQAQ"
+    },
+    {
+      "query": "mcdonald\u0027s application",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+application\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoAXoECEoQAg"
+    },
+    {
+      "query": "mcdonald\u0027s menu prices",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+menu+prices\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoAnoECEoQAw"
+    },
+    {
+      "query": "mcdonald\u0027s delivery",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+delivery\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoA3oECEoQBA"
+    },
+    {
+      "query": "mcdonald\u0027s logo",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+logo\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoBHoECEoQBQ"
+    },
+    {
+      "query": "mcdonald\u0027s stock",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+stock\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoBXoECEoQBg"
+    },
+    {
+      "query": "mcdonald\u0027s breakfast",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+breakfast\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoBnoECEoQBw"
+    },
+    {
+      "query": "mcdonald\u0027s deals",
+      "url": "http://www.google.com/search?hl=en\u0026gl=us\u0026q=mcdonald%27s+deals\u0026sa=X\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ1QIoB3oECEoQCA"
+    }
+  ],
+  "related_questions": [
+    { "question": "", "answer": "", "title": "", "displayed_url": "" },
+    { "question": "", "answer": "", "title": "", "displayed_url": "" },
+    { "question": "", "answer": "", "title": "", "displayed_url": "" },
+    { "question": "", "answer": "", "title": "", "displayed_url": "" }
+  ],
+  "pagination": {
+    "current_page": 12345678910,
+    "next_page_url": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=10\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8NMDegQINhBB",
+    "other_page_urls": {
+      "2": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=10\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhAv",
+      "3": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=20\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhAx",
+      "4": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=30\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhAz",
+      "5": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=40\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA1",
+      "6": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=50\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA3",
+      "7": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=60\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA5",
+      "8": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=70\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA7",
+      "9": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=80\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA9",
+      "10": "http://www.google.com/search?q=mcdonalds\u0026hl=en\u0026gl=us\u0026ei=NbKHX6PtAoGfjLsPlfKgqAw\u0026start=90\u0026sa=N\u0026ved=2ahUKEwjj2-f3xLXsAhWBD2MBHRU5CMUQ8tMDegQINhA_"
+    }
+  }
+}
