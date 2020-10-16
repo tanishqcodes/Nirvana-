@@ -9,3 +9,5 @@ Technologies Used are
 ## HTML5 (SVG)
 ## EJS 
 ## CSS
+
+For all the required modules use the npm init command and to install and save the dependncies use npm install --save 
